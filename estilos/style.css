@@ -2,7 +2,7 @@
 
 /* Paleta de cores:
     Verde: #49a09d
-    Lilás: #5f2c82
+    Marrom: #82472c
 
 */
 
@@ -13,13 +13,13 @@
     box-sizing: border-box;
 }
 body, html {
-    background-color: #5f2c82;
+    background-color: #82472c;
     height: 100vh;
     width: 100vw;
 }
 
 body {
-    background-image: linear-gradient(to top, #49a09d, #5f2c82);
+    background-image: linear-gradient(to top, #49a09d, #82472c);
 }
 
 main {
@@ -47,7 +47,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #5f2c82 url(../imagens/predio02.jpg) no-repeat;
+    background: #82472c url(../imagens/predio02.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
     height: 200px;
@@ -69,8 +69,8 @@ div#formulario > p {
 
 form > div.campo {
     display: block;
-    background-color: #5f2c82;
-    border: 3px solid #5f2c82;
+    background-color: #82472c;
+    border: 3px solid #82472c;
     width: 100%;   
     height: 40px;
     border-radius: 8px;
